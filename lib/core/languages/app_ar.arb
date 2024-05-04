@@ -1,0 +1,228 @@
+{
+    "language":"العربية",
+    "hello":"{username} مرحبا",
+    "petHouse":"بيت الحيوانات الأليفة",
+    "search_pet_to_adopt_or_buy":"البحث عن الحيوانات الأليفة للتبني أو الشراء",
+    "no_Items":"لا يوجد عناصر",
+
+
+
+    "back_to_Home": "رجوع",
+    "add_pet":"أضف حيوان أليف",
+    "favorites":"المفضلة",
+    "messages":"المحادثات",
+    "profile":"الصفحة الشخصية",
+    "settings":"الاعدادات",
+    "signOut":"تسجيل خروج",
+    "active_Status":"نشط الان",
+
+
+
+    "add_New_Label": "جديد {label} اضف",
+    "@add_New_Label":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "vaccination":"تلقيح",
+    "enter_your_Label_here":"جديد هنا {label} اضف",
+    "@enter_your_Label_here":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "your_expiration_Date": "تاريخ انتهاء الصلاحية الخاص بك",
+    "cancel":"خروج",
+    "add":"اضف",
+
+    "@error_the_label_was_not_added":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "add_new_pet":"إضافة حيوان أليف جديد",
+    "name":"الاسم",
+    "description":"الوصف",
+    "type":"النوع",
+    "address":"العنوان",
+    "contact":"التواصل",
+    "price":"السعر",
+    "color":"اللون",
+    "medical_history":"التاريخ الطبى",
+    "status":"الحالة",
+    "temperature":"درجة الحرارة",
+    "ph":"نسبة الحموضة",
+    "specific_Gravity":"جاذبية معينة",
+    "category":"فئة / الصنف",
+    "gender":"الجنس",
+    "care_level":"مستوى الرعاية",
+    "tags":"العلامات",
+    "options":"خيارات",
+    "diets":"الحمية",
+    "vaccinations":"التطعيمات",
+    "date_of_Birth":"تاريخ الميلاد",
+    "age_years":"سنوات العمر",
+    "age_months":"أشهر العمر",
+    "quantity":"الكمية",
+    "sterilized":"معقم",
+    "no":"لا",
+    "yes":"نعم",
+    "reported_items_list":"العناصر المبلغ عليها",
+
+    "not_item_found":"لم يتم العثور على عناصر",
+    "report":"تقرير",
+    "y_old":"سنة",
+    "years_old":"سنة",
+    "mounths_old":"شهر",
+    "call_for_Adoption":"اتصل للتيني",
+    "call_for_Buy":"اتصل للشراء",
+    "owner":"المالك",
+    "pets":"حيوانات اليفة",
+    "pet":"حيوان اليف",
+    "ex_date":"تاريخ الانتهاء",
+    "unspecified_Vaccinations":"لقاحات غير محددة",
+    "sterile":"معقم",
+    "unspecified_Tags":"علامات غير محددة",
+    "seller":"البائع",
+    "whistleblower":"المبلغين",
+    "he_reported_this_item":"أبلغ عن هذا العنصر",
+    "do_you_want_report_this_item":"هل تريد الإبلاغ عن هذا العنصر",
+    "ok":"موافق",
+    "close":"خروج",
+    "male":"ذكر",
+    "female":"انثى",
+    "reported_Pets":"الحيوانات الأليفة المبلغ عنها",
+    "c_Rports":"حذف التقارير",
+    "d_Report":"حذف العنصر",
+    "publishing":"نشر",
+    "welcome_back":"مرحبا في عودتك",
+    "login_to_manage":"سجيل الدخول لإدارة حسابك",
+    "email":"الايميل",
+    "invalid_password":"كلمة المرور خاطئة",
+    "signin":"تسجيل الدخول",
+    "dont_Have_an_Account":"ليس لديك حساب؟ سجل الان",
+    "invalid_name":"الاسم غير صحيح",
+    "invalid_confirm_password":"تأكيد كلمة المرور غير صالحة",
+    "invalid_phone_Number":"رقم الهاتف غير صحيح",
+    "signup":"تسجيل حساب جديد",
+    "already_Have_an_Account":"هل لديك حساب؟ سجل الدخول",
+
+
+
+
+    "your_Chats":"محادثاتي",
+    "owner_this_item":"مالك العنصر",
+    "admin_reported_this_item":"تم الابلاع من قبل الادمن",
+    "delete":"حذف",
+    "edit_category":"تعديل فئة",
+    "enter_new_category_label":"أدخل اسم الفئة الجديدة هنا",
+
+
+
+
+    "enter_new_label":"جديد هنا {label} اضف",
+    "@enter_new_label":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "last_password":"كلمة المرور الأخيرة",
+    "new_Password":"كلمة المرور الجديدة",
+    "confirm_Password":"تأكيد كلمة المرور",
+    "the_name_must_not_be_less_than_three_letters":"يجب ألا يقل الاسم عن ثلاثة أحرف",
+    "the_phone_number_10_digits":"يجب أن يتكون رقم الهاتف من 10 أرقام تبدأ بـ 078 أو 077 أو 079",
+    "invalid_email":"بريد إلكتروني خاطئ",
+    "the_address_must_not_be_less_than_six_letters":"يجب ألا يقل العنوان عن ستة أحرف",
+    "invalid_last_password":"كلمة المرور الأخيرة غير صالحة",
+    "the_password_must_not_be_less_than_six_letters": "يجب ألا تقل كلمة المرور عن ستة أحرف",
+    "the_New_password_not_equal_confirm_password":"كلمة المرور الجديدة لا تساوي تأكيد كلمة المرور",
+    "phone":"رقم الهاتف",
+    "password":"كلمة المرور",
+    "my_pets":"حيواناتي الاليفة",
+    "save_edit":"حفظ التغييرات",
+
+    "add_new_item":"اضف عنصر جديد",
+    "add_new_tool":"اضف اداة جديدة",
+    "add_new_food":"اضف طعام جديدة",
+    "tools":"ادوات",
+    "tool":"اداة",
+    "foods":"اطعمة",
+    "food":"طعام",
+    "waiting_tools":"الادوات الجاهزة للنشر",
+    "waiting_foods":"الاطعمة الجاهزة للنشر",
+    "pet_categories":"قائمة الحيوانات ",
+    "tools_categories":"قائمة الادوات",
+    "pet_foods_categories":"قائمة الطعام ",
+    "search_pets":"البحث",
+    "add_new_pet_category":"إضافة فئة حيوانات جديدة",
+    "update_pet_category":"تحديث فئة حيوانات",
+    "add_new_tools_category":"إضافة فئة ادوات جديدة",
+    "update_tools_category":"تحديث فئة ادوات",
+    "add_new_foods_category":"إضافة فئة طعام جديدة",
+    "update_foods_category":"تحديث فئة طعام",
+    "waiting_pets":"الحيوانات الجاهزة للنشر",
+    "reported_items":"تم الابلاغ عنها",
+    "item_Deletion_Reports":"تقارير حذف العنصر",
+    "intellectual_property_rights":"حقوق الملكية الفكرية",
+    "light_Theme":"مظهر خفيف" ,
+    "dark_Theme":"مظهر داكن" , 
+    "edit":"تعديل",
+    "enter_new_intellectual_property_rights":"أدخل حقوق الملكية الفكرية الجديدة هنا",
+    "update":"تحديث",
+    "hidden":"اخفاء",
+    "edit_language":"لغة التطبيق",
+    "feedback_reports":"تقارير التغذية الراجعة",
+    "feedback_reports_list":"قائمة تقارير التغذية الراجعة",
+    "send_feedback_report":"اضف تقرير بناء للادارة",
+    "enter_new_feedback_report":"اكتب تقريرك البناء هنا",
+    "send":"ارسل",
+    "change_the_status_of_officials":"تغيير وضع المسؤولين",
+    "find_those_responsible":"ابحث عن المسؤولين",
+    "administrators_screen":"المسؤولين",
+    "update_user_status":"تحديث حالة المستخدم",
+
+    "disabled":"مخفي",
+    "is_admin":"مسؤول",
+    "is_manager":"مدير",
+    "closed_accounts":"الحسابات المغلقة",
+    "re_Active":"تنشيط",
+    "start_your_journey":"ابدأ رحلتك معنا.",
+    "write_the_reason":"اكتب السبب",
+    "close_by":"أغلق بواسطة",
+    "reason":"السبب",
+    "submit_an_objection_request":"تقديم طلب اعتراض",
+    "write_your_objection_here":"اكتب اعتراضك هنا",
+    "enter_your_email_here":"اكتب ايميلك هنا",
+    "a_report_has_already_been_sent_before":"لقد تم بالفعل إرسال تقرير من قبل",
+    "report_content_is":" : محتوى التقرير",
+    "report_answer_is":" : الرد ",
+    "your_email_is":": ايميلك هو ",
+    "objection_reports":"تقارير الاعتراض",
+    "response_date":"تاريخ الاجابة",
+    "date":"التاريخ",
+    "answer":"الاجابة",
+    "content":"محتوى التقرير",
+    "answer_an_objection_report":"الاجابة على التقرير",
+    "write_your_answer":"اكتب الاجابة ",
+    "write_your_answer_here":"اكتب الاجابة هنا",
+
+
+
+    "error_Vaccination": "لم تتم إضافة التطعيم لأن اسم التطعيم أو تاريخ انتهاء الصلاحية فارغ",
+    "error_the_label_was_not_added": "لم تتم إضافة {label} لأنها فارغة",
+    "error_something_wrong":"حدث خطا اثناء التحميل !!",
+    "error_Fields":"يرجى ملء الحقول التالية: الاسم ، والموقع ، والكمية ، والنظام الغذائي ، والأشهر",
+    "error_the_Image_and_Label_must_be_filled_in":"يجب ملء الصورة والملصق",
+    "error_write_the_reason":"يجب كتابة السبب",
+    "error_write_your_objection_and_email":"الرجاء ملئ حقل التقرير و الايميل ",
+    "error_write_your_email":"الرجاء ملئ حقل الايميل"
+    }
+

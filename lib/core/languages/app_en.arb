@@ -1,0 +1,230 @@
+{
+    "language":"English",
+    "@language":{
+        "description":"The current Language"
+    },
+    "petHouse":"Pet House",
+    "search_pet_to_adopt_or_buy":"Search pet to adopt or buy",
+    "no_Items":"No Items",
+    "back_to_Home": "Back to Home",
+
+
+
+
+    "add_pet":"Add pet",
+    "favorites":"Favorites",
+    "messages":"Messages",
+    "profile":"Profile",
+    "settings":"Settings",
+    "signOut":"SignOut",
+    "active_Status":"Online",
+
+
+
+
+    "add_New_Label":"Add New {label}",
+    "@add_New_Label":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "vaccination":"Vaccination",
+    "enter_your_Label_here":"Enter your {label} here",
+    "@enter_your_Label_here":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "your_expiration_Date":"your expiration Date ",
+    "cancel":"CANCEL",
+    "add":"ADD",
+    "@error_the_label_was_not_added":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "add_new_pet":"Add New pet",
+    "name":"Name",
+    "description":"Description",
+    "type":"Type",
+    "address":"Address",
+    "contact":"Contact",
+    "price":"Price",
+    "color":"Color",
+    "medical_history":"Medical History",
+    "status":"Status",
+    "temperature":"Temperature",
+    "ph":"PH",
+    "specific_Gravity":"Specific Gravity",
+    "category":"Category",
+    "gender":"Gender",
+    "care_level":"Care Level",
+    "tags":"Tags",
+    "options":"Options",
+    "diets":"Diets",
+    "vaccinations":"Vaccinations",
+    "date_of_Birth":"Date of Birth",
+    "age_years":"Age years",
+    "age_months":"Age months",
+    "quantity":"Quantity",
+    "sterilized":"Sterilized",
+    "no":"No",
+    "yes":"yes",
+
+
+    "not_item_found":"No Items Founded ",
+    "report":"Report",
+    "y_old":"y old",
+    "years_old":"years old",
+    "mounths_old":"mounths old",
+    "call_for_Adoption":"Call for Adoption",
+    "call_for_Buy":"Call to Buy",
+    "owner":"Owner",
+    "pets":"Pets",
+    "pet":"Pet",
+    "ex_date":"EX Date :",
+    "unspecified_Vaccinations":"Unspecified Vaccinations",
+    "sterile":"Sterile",
+    "unspecified_Tags":"Unspecified Tags",
+    "seller":"Seller",
+    "whistleblower":"Whistleblower",
+    "he_reported_this_item":"He reported this item",
+    "do_you_want_report_this_item":"Do you want report this item",
+    "ok":"OK",
+    "close":"Close",
+    "male":"male",
+    "female":"female",
+    "reported_Pets":"Reported Pets",
+    "c_Rports":"C/Rports",
+    "d_Report":"D/Report",
+    "publishing":"publishing",
+    "welcome_back":"Welcome Back",
+    "login_to_manage":"Login to manage your account.",
+    "email":"Email",
+    "invalid_password":"Invalid Password",
+    "signin":"SIGNIN",
+    "dont_Have_an_Account":"Don't Have an Account? Sign up",
+    "invalid_name":"invalid name",
+    "invalid_confirm_password":"invalid confirm password",
+    "invalid_phone_Number":"invalid phone Number",
+    "signup":"SIGNUP",
+    "already_Have_an_Account":"Already Have an Account? Sign in",
+
+
+
+    "your_Chats":"Your Chats",
+    "owner_this_item":"Owner this item",
+    "admin_reported_this_item":"Admin Reported this item",
+    "delete":"Delete",
+    "edit_category":"Edit Category",
+    "enter_new_category_label":"Enter New Category label here",
+
+
+
+
+    "enter_new_label":"Enter New {label}",
+    "@enter_new_label":{
+        "placeholders":{
+            "label":{
+                "type":"String"
+            }
+        }
+    },
+    "last_password":"Last password",
+    "new_Password":"New Password",
+    "confirm_Password":"Confirm Password",
+    "the_name_must_not_be_less_than_three_letters":"The name must not be less than three letters",
+    "the_phone_number_10_digits":"The phone number must equal 10 digits starting with 078 or 077 or 079",
+    "invalid_email":"invalid email",
+    "the_address_must_not_be_less_than_six_letters":"The address must not be less than six letters",
+    "invalid_last_password":"Invalid last password",
+    "the_password_must_not_be_less_than_six_letters": "The password must not be less than six letters",
+    "the_New_password_not_equal_confirm_password":"The New password not equal confirm password",
+    "phone":"Phone",
+    "password":"Password",
+    "my_pets":"MY Pets",
+    "save_edit":"Save Edit",
+    "reported_items_list":"Reported Items List",
+    "add_new_item":"Add New Item",
+    "add_new_tool":"Add New Tool",
+    "add_new_food":"Add New Food",
+    "tools":"Tools",
+    "tool":"Tool",
+    "foods":"Foods",
+    "food":"Food",
+    "waiting_tools":"Waiting Tools",
+    "waiting_foods":"Waiting Foods",
+    "pet_categories":"Pet Category",
+    "tools_categories":"Pet Tools Category",
+    "pet_foods_categories":"Pet Foods Category",
+    "search_pets":"Search pet",
+    "add_new_pet_category":"Add New Pet Category",
+    "update_pet_category":"Update Pet Category",
+    "add_new_tools_category":"Add New Tools Category",
+    "update_tools_category":"Update Tools Category",
+    "add_new_foods_category":"Add New Foods Category",
+    "update_foods_category":"Update Foods Category",
+    "waiting_pets":"Waiting pets",
+    "reported_items":"Reported Items",
+    "item_Deletion_Reports":"Item Deletion Reports",
+    "intellectual_property_rights":"Intellectual property rights",
+    "light_Theme":"Light Theme" ,
+    "dark_Theme":"Dark Theme" , 
+    "edit":"edit",
+    "update":"Update",
+    "enter_new_intellectual_property_rights":"Enter New Intellectual property rights here",
+    "hidden":"hidden",
+
+    "edit_language":"Languages",
+    "feedback_reports":"Feedback Reports",
+    "feedback_reports_list":"Feedback Reports List",
+    "send_feedback_report":"Send Feedback Report",
+    "enter_new_feedback_report":"Enter your feedback report",
+    "send":"send",
+    "change_the_status_of_officials":"Change the status of officials",
+    "find_those_responsible":"Find those responsible",
+    "administrators_screen":"Administrators",
+
+    "update_user_status":"Update User Status",
+    "disabled":"disabled",
+    "is_admin":"is Admin",
+    "is_manager":"is Manager",
+    "closed_accounts":"Closed Accounts",
+    "re_Active":"Re-Active",
+    "start_your_journey":"Start your\njourney with us.",
+    "write_the_reason":"Write the reason",
+    "close_by":"Close By",
+    "reason":"Reason",
+    "submit_an_objection_request":"Submit an objection request",
+    "write_your_objection_here":"Write your objection here",
+    "enter_your_email_here":"Enter your email here",
+    "a_report_has_already_been_sent_before":"A report has already been sent before",
+    "report_content_is":"report content is :",
+    "report_answer_is":"report answer is :",
+    "your_email_is":"your email is :",
+    "objection_reports":"Objection reports",
+    "response_date":"Response date",
+    "date":"date",
+    "answer":"answer",
+    "content":"content",
+    "answer_an_objection_report":"answer_an_objection_report",
+    "write_your_answer":"write your answer",  
+    "write_your_answer_here":"write your answer here",    
+
+
+
+    "error_Vaccination":"The Vaccination was not added because Vaccination name or Expiration date is empty",
+    "error_the_label_was_not_added": "The {label} was not added because it is empty",
+    "error_something_wrong":"An error occurred during the download !!",
+    "error_Fields":"Please fill in the following fields: name, location, quantity, diet,age months",
+    "error_the_Image_and_Label_must_be_filled_in":"The Image and Label must be filled in",
+    "error_write_the_reason":"The reason must be written",
+    "error_write_your_objection_and_email":"Please fill your objection and email",
+    "error_write_your_email":"Please fill your email"
+}
