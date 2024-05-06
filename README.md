@@ -43,6 +43,7 @@ sections
 7: profile
 8: settings
 9: reports
+10: auth
 
   settings Section
 1: add new pet catecory
