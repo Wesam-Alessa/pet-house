@@ -94,8 +94,8 @@ sections
   Foods Section
 1: add new item
 2: edit item
+![banner](https://github.com/Wesam-Alessa/pet-house/assets/85794958/c3d87750-fcc1-4603-bce5-271a7981c77d)
 
-![bannar](https://github.com/Wesam-Alessa/pet-house/assets/85794958/5c20b4f3-71b7-47da-9a21-54d2caf8e801)
 ![b1](https://github.com/Wesam-Alessa/pet-house/assets/85794958/c6d3d2ce-7754-4579-8ea7-9303b737fcd1)
 ![b2](https://github.com/Wesam-Alessa/pet-house/assets/85794958/0adcaaff-7075-4c8d-b7f8-d2dc927a6d47)
 ![b3](https://github.com/Wesam-Alessa/pet-house/assets/85794958/e7cbeee9-7b2f-476c-9b03-981aa65029d3)
