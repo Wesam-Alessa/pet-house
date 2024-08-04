@@ -12,10 +12,15 @@ This repository houses the codebase for Pet House, a comprehensive mobile and we
    
 App:
   2.1 UI Framework: Flutter
+  
   2.2 State Management: BLoC
+  
   2.3 Data Storage: Shared Preferences
+  
   2.4 Real-time Communication: Socket.IO
+  
   2.5 Architecture: MVVM, Clean Code
+  
   2.6 Other: Dart, dartz, animations, calling, get_it, additional packages
 
 Server:
