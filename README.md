@@ -1,6 +1,8 @@
 Pet House: Full-Stack Pet Management App
 This repository houses the codebase for Pet House, a comprehensive mobile and web application designed for pet owners and enthusiasts.
 
+pet house api : https://github.com/Wesam-Alessa/pet-house-api/tree/master
+
 1. Key Features:
 
 1.1 Pet Management: Add, edit, and manage your pet information.
